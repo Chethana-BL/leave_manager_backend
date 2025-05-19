@@ -32,6 +32,7 @@ A lightweight backend API built with [Express.js](https://expressjs.com/) for th
 ├── package.json              # 📦 Project metadata & scripts
 ├── package-lock.json         # 🔐 Dependency lock file
 └── README.md                 # 📘 Project overview (this file)
+```
 
 ---
 
@@ -44,3 +45,5 @@ A lightweight backend API built with [Express.js](https://expressjs.com/) for th
 - Replace static JSON with a database (e.g., SQLite, MongoDB)
 - Add error handling and validation for API routes
 - Include API documentation (Swagger/OpenAPI)
+
+---
